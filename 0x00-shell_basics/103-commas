@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -amF
+ls -am --file-type
+
