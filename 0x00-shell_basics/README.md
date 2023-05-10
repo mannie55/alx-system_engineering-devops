@@ -1,1 +1,0 @@
-a dir with a list of script of basic commands to manipulate filesa and dirs
