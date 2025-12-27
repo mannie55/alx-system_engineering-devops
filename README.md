@@ -1,1 +1,1 @@
-this repo is about devops operation
+**DEVops and SHELL scripting
