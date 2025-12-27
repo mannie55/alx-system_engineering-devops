@@ -1,1 +1,1 @@
-**DEVops and SHELL scripting**
+**DEVOPS and SHELL scripting**
